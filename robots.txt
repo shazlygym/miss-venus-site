@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shazlygym.github.io/miss-venus-site/sitemap.xml
